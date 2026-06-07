@@ -1,0 +1,20 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.12.1
+2 info using node@v24.15.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\28045\blog\.npmrc
+5 silly config load:file:C:\Users\28045\.npmrc
+6 silly config load:file:C:\Users\28045\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm ls
+8 verbose argv "ls" "--depth" "0"
+9 verbose logfile logs-max:10 dir:C:\Users\28045\blog\.npm-cache\_logs\2026-06-06T17_02_38_009Z-
+10 verbose logfile C:\Users\28045\blog\.npm-cache\_logs\2026-06-06T17_02_38_009Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 silly logfile done cleaning log files
+14 verbose cwd C:\Users\28045\blog
+15 verbose os Windows_NT 10.0.26220
+16 verbose node v24.15.0
+17 verbose npm  v11.12.1
+18 verbose exit 0
+19 info ok
